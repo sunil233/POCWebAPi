@@ -14,3 +14,6 @@ Installation
 1) Download the project
 2) Restore the packages
 
+
+Disclaimer:This sample Project is for training and learning purpose only.Not for commerical use.
+
